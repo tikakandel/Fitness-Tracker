@@ -4,6 +4,7 @@ const db = require('../models/exercise');
 mongoose.connect('mongodb://localhost/fitnesstracker', {
   useNewUrlParser: true,
   useFindAndModify: false,
+  useUnifiedTopology: true 
 
 });
 
