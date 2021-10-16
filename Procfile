@@ -1,3 +1,3 @@
 web: npm start
-node seeders/seed.js
+seed: node seeders/seed.js
 
