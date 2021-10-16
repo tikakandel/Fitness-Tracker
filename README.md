@@ -2,11 +2,16 @@
     This is simpal fitness tracker app built using Javascript, MongoDB, Mongoess, ExpressJS, HTML and CSS
 
 # App UI
-*Landing Page
-    ![Getting Started](./assets/images/Main.JPG)
-*Dashboard
+
+ Deployed [App Link](https://tika-fitness-tracker.herokuapp.com/) \
+ \
+ Landing Page \
+     ![Getting Started](./assets/images/Main.JPG)
+    
+*Dashboard \
       ![Dashboard](./assets/images/DashBoard.JPG)
-*New Workout Entry 
+
+*New Workout Entry \
       ![NewWorkout](./assets/images/AddNew.JPG)
 
       
