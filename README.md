@@ -1,11 +1,14 @@
 # Fitness Tracker
     This is simpal fitness tracker app built using Javascript, MongoDB, Mongoess, ExpressJS, HTML and CSS
 
-# App UI
+# Deployed Aap Link 
+        
 *Landing Page
     ![Getting Started](./assets/images/Main.JPG)
+
 *Dashboard
       ![Dashboard](./assets/images/DashBoard.JPG)
+
 *New Workout Entry 
       ![NewWorkout](./assets/images/AddNew.JPG)
 
